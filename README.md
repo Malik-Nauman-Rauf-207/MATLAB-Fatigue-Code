@@ -8,7 +8,6 @@ Welcome to the MATLAB Aerospace Structural Integrity Assessment Application repo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -48,6 +47,8 @@ To use this application, follow these steps:
 4. **Run Analysis**: Initiate the analysis process and wait for the results.
 
 5. **Visualize Results**: Explore the analysis results through interactive visualizations provided by the application.
+
+**Reference** - For Reference, consider the document `App Manual.pdf`
 
 ## Contributing
 
