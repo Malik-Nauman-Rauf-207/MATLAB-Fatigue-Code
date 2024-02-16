@@ -33,15 +33,15 @@ To use this application, follow these steps:
 
 2. **Open in MATLAB**: Open MATLAB and navigate to the directory where you cloned the repository.
 
-3. **Run the App**: Run the `AerospaceStructuralIntegrityApp.mlapp` file in MATLAB's App Designer.
+3. **Run the App**: Run the `app2.mlapp` file in MATLAB's App Designer.
 
 4. **Start Assessing**: You're all set! Start assessing the structural integrity of aerospace structures using the application.
 
 ## Usage
 
-1. **Input Data**: Provide input data such as geometry, material properties, and loading conditions.
+1. **Select Analysis Type**: Choose the type of analysis you want to perform (e.g., stress analysis, strain fatigue analysis, or failure analysis).
 
-2. **Select Analysis Type**: Choose the type of analysis you want to perform (e.g., stress analysis, fatigue analysis, modal analysis).
+2. **Input Data**: Provide input data such as geometry, material properties, and loading conditions.
 
 3. **Customize Settings**: Adjust analysis parameters and settings as needed.
 
@@ -49,15 +49,10 @@ To use this application, follow these steps:
 
 5. **Visualize Results**: Explore the analysis results through interactive visualizations provided by the application.
 
-6. **Export Results**: Export the analysis results and visualizations for documentation or further analysis.
-
 ## Contributing
 
-Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please adhere to the [code of conduct](CODE_OF_CONDUCT.md).
+Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
